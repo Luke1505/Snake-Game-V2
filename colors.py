@@ -55,12 +55,13 @@ Light_coral = (240, 128, 128)
 Light_cyan = (224, 255, 255)
 Light_goldenrod_yellow = (250, 250, 210)
 Light_yellow = (255, 255, 224)
+light_sea_blue = (173, 216, 230)
 colors = [blue, blurple, green, cyan, purple, yellow, brown, pink, purple, orange, gray, baby_blue,
           dark_green, peach, voilet, sienna, Seagreen, orchid, slate_blue, light_pink, aqua, dark_red,
           dark_sea_green, dark_magenta, sandy_brown, light_green, lavender, Deep_Sky_blue, Deep_Pink,
           old_lace, Rosy_brown, light_steel_blue, Alice_blue, Ghost_white, Tan, Teal, pink2, Dark_gray,
           orange2, saddle_brown, Firebrick, Tomato, Green2, Indian_red, Chocolate, Plum, Light_blue,
-          Light_gray, Light_salmon, Light_coral, Light_cyan, Light_goldenrod_yellow, Light_yellow]
+          Light_gray, Light_salmon, Light_coral, Light_cyan, Light_goldenrod_yellow, Light_yellow,light_sea_blue]
 color = green
 color2 = cyan
 
